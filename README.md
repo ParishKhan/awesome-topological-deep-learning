@@ -14,11 +14,11 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 4. **Principled simplicial neural networks for trajectory prediction**.  Roddenberry, T. Mitchell, Nicholas Glaze, and Santiago Segarra. *ICML 2021*. [Paper](http://proceedings.mlr.press/v139/roddenberry21a/roddenberry21a.pdf), [Code](https://github.com/nglaze00/SCoNe_GCN) <img width="20" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/jax-6ee30fa5.png">
 
-5. **Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks**. Cristian Bodnar, Fabrizio Frasca, Yu Guang Wang, Nina Otter, Guido Montúfar, Pietro Liò, Michael Bronstein. *ICML 2021*. [Paper](http://proceedings.mlr.press/v139/bodnar21a/bodnar21a.pdf), [Code](https://github.com/twitter-research/cwn) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">, <a href="https://www.youtube.com/watch?v=wACDSoDNTfE">
+5. **Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks**. Cristian Bodnar, Fabrizio Frasca, Yu Guang Wang, Nina Otter, Guido Montúfar, Pietro Liò, Michael Bronstein. *ICML 2021*. [Paper](http://proceedings.mlr.press/v139/bodnar21a/bodnar21a.pdf), [Code](https://github.com/twitter-research/cwn) <img alt="PyTorch" src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="14" style="vertical-align:text-bottom"> <a href="https://www.youtube.com/watch?v=wACDSoDNTfE">
        <img src="https://1000marken.net/wp-content/uploads/2021/01/Youtube-logo-2015.png" alt="YouTube Video" width="46" height="15">
    </a>
 
-6. **Weisfeiler and Lehman Go Cellular: CW Networks**. Cristian Bodnar, Fabrizio Frasca, Nina Otter, Yu Guang Wang, Pietro Liò, Guido Montúfar, Michael Bronstein. *NeurIPS 2021*. [Paper](https://proceedings.neurips.cc/paper/2021/file/157792e4abb490f99dbd738483e0d2d4-Paper.pdf), [Code](https://github.com/twitter-research/cwn) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">, <a href="https://www.youtube.com/watch?v=MTQGNVTn9lQ">
+6. **Weisfeiler and Lehman Go Cellular: CW Networks**. Cristian Bodnar, Fabrizio Frasca, Nina Otter, Yu Guang Wang, Pietro Liò, Guido Montúfar, Michael Bronstein. *NeurIPS 2021*. [Paper](https://proceedings.neurips.cc/paper/2021/file/157792e4abb490f99dbd738483e0d2d4-Paper.pdf), [Code](https://github.com/twitter-research/cwn) <img alt="PyTorch" src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="14" style="vertical-align:text-bottom"> <a href="https://www.youtube.com/watch?v=MTQGNVTn9lQ">
        <img src="https://1000marken.net/wp-content/uploads/2021/01/Youtube-logo-2015.png" alt="YouTube Video" width="46" height="15">
    </a>
 
@@ -26,7 +26,7 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 8. **Simplicial Attention Networks**. Christopher Wei Jin Goh, Cristian Bodnar, Pietro Liò. *ICLR 2022 Workshop on Geometrical and Topological Representation Learning*. [Paper](https://arxiv.org/abs/2204.09455), [Code](https://github.com/ggoh29/Simplicial-neural-network-benchmark) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
-9. **Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs**. Cristian Bodnar, Francesco Di Giovanni, Benjamin Paul Chamberlain, Pietro Liò, Michael M. Bronstein. *NeurIPS 2022*. [Paper](https://arxiv.org/abs/2202.04579), [Code](https://github.com/twitter-research/neural-sheaf-diffusion) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">,  <a href="https://www.youtube.com/watch?v=90MbHphnPUU">
+9. **Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs**. Cristian Bodnar, Francesco Di Giovanni, Benjamin Paul Chamberlain, Pietro Liò, Michael M. Bronstein. *NeurIPS 2022*. [Paper](https://arxiv.org/abs/2202.04579), [Code](https://github.com/twitter-research/neural-sheaf-diffusion) <img alt="PyTorch" src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="14" style="vertical-align:text-bottom">  <a href="https://www.youtube.com/watch?v=90MbHphnPUU">
        <img src="https://1000marken.net/wp-content/uploads/2021/01/Youtube-logo-2015.png" alt="YouTube Video" width="46" height="15">
    </a>
 
@@ -44,7 +44,7 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 16. **Tangent Bundle Convolutional Learning: from Manifolds to Cellular Sheaves and Back**. Claudio Battiloro, Zhiyang Wang, Hans Riess, Paolo Di Lorenzo, Alejandro Ribeiro. [Paper](https://arxiv.org/abs/2303.11323), [Code](https://github.com/clabat9/Tangent-Bundle-Neural-Networks) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">
 
-17. **Topological Graph Neural Networks**. Max Horn, Edward De Brouwer, Michael Moor, Yves Moreau, Bastian Rieck, and Karsten Borgwardt. *ICLR 2022*. [Paper](https://openreview.net/pdf?id=oxxUMeFwEHd), [Code](https://github.com/BorgwardtLab/TOGL) <img width="46" height="11" src="https://production-assets.paperswithcode.com/perf/images/frameworks/pytorch-2fbf2cb9.png">, <a href="https://www.youtube.com/watch?v=CznfqG9Aigo">
+17. **Topological Graph Neural Networks**. Max Horn, Edward De Brouwer, Michael Moor, Yves Moreau, Bastian Rieck, and Karsten Borgwardt. *ICLR 2022*. [Paper](https://openreview.net/pdf?id=oxxUMeFwEHd), [Code](https://github.com/BorgwardtLab/TOGL) <img alt="PyTorch" src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="14" style="vertical-align:text-bottom"> <a href="https://www.youtube.com/watch?v=CznfqG9Aigo">
        <img src="https://1000marken.net/wp-content/uploads/2021/01/Youtube-logo-2015.png" alt="YouTube Video" width="46" height="15">
    </a>
 
