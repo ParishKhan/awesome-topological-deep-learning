@@ -128,7 +128,6 @@ A curated list of Topological Deep Learning (TDL) tools and resources.
 
 ---
 
----
 
 ### Topological Signal Processing
 1. **Topological signal processing over simplicial complexes**. Sergio Barbarossa, Stefania Sardellitti. *IEEE Transactions on Signal Processing 2020*. [Paper](https://arxiv.org/abs/1907.11577)
